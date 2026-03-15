@@ -1,0 +1,76 @@
+
+K_fxA.png
+size: 1916,1912
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Artmesh1
+  rotate: false
+  xy: 2, 1188
+  size: 1250, 722
+  orig: 1250, 722
+  offset: 0, 0
+  index: -1
+Artmesh2
+  rotate: true
+  xy: 2, 2
+  size: 1184, 670
+  orig: 1250, 722
+  offset: 33, 29
+  index: -1
+Artmesh3
+  rotate: false
+  xy: 674, 6
+  size: 1194, 705
+  orig: 1250, 722
+  offset: 48, 5
+  index: -1
+Artmesh4
+  rotate: true
+  xy: 1254, 713
+  size: 1197, 660
+  orig: 1250, 722
+  offset: 30, 54
+  index: -1
+Artmesh5
+  rotate: false
+  xy: 674, 767
+  size: 179, 183
+  orig: 1250, 722
+  offset: 751, 204
+  index: -1
+Artmesh7
+  rotate: false
+  xy: 674, 767
+  size: 179, 183
+  orig: 1250, 722
+  offset: 751, 204
+  index: -1
+Artmesh9
+  rotate: false
+  xy: 674, 767
+  size: 179, 183
+  orig: 1250, 722
+  offset: 751, 204
+  index: -1
+Artmesh6
+  rotate: true
+  xy: 674, 952
+  size: 234, 192
+  orig: 1250, 722
+  offset: 326, 231
+  index: -1
+Artmesh10
+  rotate: true
+  xy: 674, 952
+  size: 234, 192
+  orig: 1250, 722
+  offset: 326, 231
+  index: -1
+Artmesh8
+  rotate: true
+  xy: 674, 952
+  size: 234, 192
+  orig: 1250, 722
+  offset: 326, 231
+  index: -1

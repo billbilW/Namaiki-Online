@@ -1,0 +1,69 @@
+{
+  "conf_ver": 1,
+  "type": 9,
+  "controllers": {
+    "param_hit": {},
+    "param_loop": {},
+    "key_trigger": {},
+    "eye_blink": {
+      "min_interval": 500,
+      "max_interval": 6000
+    },
+    "lip_sync": {
+      "gain": 5.0,
+      "enabled": true
+    },
+    "mouse_tracking": {
+      "smooth_time": 0.15,
+      "items": [
+        {
+          "name": "G_motionA",
+          "id": "G_motionA",
+          "blend_mode": 1,
+          "input": 0
+        }
+      ],
+      "enabled": true
+    },
+    "auto_breath": {},
+    "extra_motion": {},
+    "accelerometer": {},
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "motions": {
+    "idle": [
+      {
+        "file": "G_motionA",
+        "command": "set_skins G_exp1",
+        "post_command": "set_skins G_exp1"
+      }
+    ],
+    "Start": [
+      {
+        "name": "start",
+        "command": "set_skins G_exp1",
+        "post_command": "set_skins G_exp1"
+      }
+    ]
+  },
+  "options": {
+    "scale_factor": 0.1188652,
+    "tex_type": 0,
+    "edge_padding": false,
+    "shader_type": 1
+  },
+  "skeleton": "G_modelA.json",
+  "atlases": [
+    {
+      "atlas": "G_modelA.atlas",
+      "tex_names": [
+        "G_modelA"
+      ],
+      "textures": [
+        "G_modelA.png"
+      ]
+    }
+  ]
+}

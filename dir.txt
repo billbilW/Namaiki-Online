@@ -1,0 +1,859 @@
+﻿Folder PATH listing
+Volume serial number is 86F2-D45F
+D:.
+|   by.bdd
+|   dir.txt
+|   index.html
+|   package.json
+|   
++---.idea
+|       workspace.xml
+|       
++---audio
+|   +---bgm
+|   |       Namaiki_ending.ogg_
+|   |       Namaiki_mapB_2.ogg_
+|   |       Namaiki_mapF_1.ogg_
+|   |       Namaiki_mapJ_1.ogg_
+|   |       Namaiki_mapK_1.ogg_
+|   |       
+|   +---bgs
+|   |       F_se_A0.ogg_
+|   |       F_se_A1.ogg_
+|   |       F_se_A2.ogg_
+|   |       F_se_B0.ogg_
+|   |       J_se_E1.ogg_
+|   |       J_se_F1.ogg_
+|   |       J_voice_A1.ogg_
+|   |       J_voice_B1.ogg_
+|   |       J_voice_C1.ogg_
+|   |       J_voice_D1.ogg_
+|   |       J_voice_D2.ogg_
+|   |       J_voice_E1.ogg_
+|   |       J_voice_F1.ogg_
+|   |       K_se_A0.ogg_
+|   |       K_se_A1.ogg_
+|   |       K_se_A2.ogg_
+|   |       K_se_AA0.ogg_
+|   |       K_se_AA1.ogg_
+|   |       K_se_AA2.ogg_
+|   |       K_se_B0.ogg_
+|   |       K_se_C0.ogg_
+|   |       K_se_C1.ogg_
+|   |       K_se_C2.ogg_
+|   |       K_se_D0.ogg_
+|   |       K_se_D1.ogg_
+|   |       K_se_D2.ogg_
+|   |       K_se_E0.ogg_
+|   |       K_se_E1.ogg_
+|   |       K_se_E2.ogg_
+|   |       K_voice_A1.ogg_
+|   |       K_voice_A2.ogg_
+|   |       K_voice_A3.ogg_
+|   |       K_voice_B1.ogg_
+|   |       K_voice_B2.ogg_
+|   |       K_voice_D1.ogg_
+|   |       se_Keyboard.ogg_
+|   |       
+|   \---se
+|           Book1.ogg_
+|           Book2.ogg_
+|           Buzzer1.ogg_
+|           Buzzer2.ogg_
+|           Buzzer3.ogg_
+|           B_itazura_se.ogg_
+|           B_kaiwa_se.ogg_
+|           B_tansaku_se.ogg_
+|           Cancel1.ogg_
+|           Cancel2.ogg_
+|           Cancel3.ogg_
+|           Chime2.ogg_
+|           Coin.ogg_
+|           Cursor1.ogg_
+|           Cursor2.ogg_
+|           Cursor3.ogg_
+|           Cursor4.ogg_
+|           Decision1.ogg_
+|           Decision2.ogg_
+|           Decision3.ogg_
+|           Decision4.ogg_
+|           Decision5.ogg_
+|           Door1.ogg_
+|           Door2.ogg_
+|           Door3.ogg_
+|           Door4.ogg_
+|           Door5.ogg_
+|           Door6.ogg_
+|           Door7.ogg_
+|           Door8.ogg_
+|           Electrocardiogram.ogg_
+|           Equip1.ogg_
+|           Equip2.ogg_
+|           Equip3.ogg_
+|           F_se_B0.ogg_
+|           G_Voice_Etto.ogg_
+|           G_Voice_Gextu.ogg_
+|           G_Voice_Haxa_gakkari.ogg_
+|           G_Voice_Haxa_gakkari_B.ogg_
+|           G_Voice_Haxa_oko.ogg_
+|           G_Voice_Haxa_oko_B.ogg_
+|           G_Voice_Hehen.ogg_
+|           G_Voice_Hehextu.ogg_
+|           G_Voice_Hextu.ogg_
+|           G_Voice_Huun.ogg_
+|           G_Voice_Jyaa.ogg_
+|           G_Voice_Naa.ogg_
+|           G_Voice_Nanaxa.ogg_
+|           G_Voice_Nankayou_A.ogg_
+|           G_Voice_Nankayou_B.ogg_
+|           G_Voice_Nankayou_C.ogg_
+|           G_Voice_Nnaxtu.ogg_
+|           G_Voice_Nnn.ogg_
+|           G_Voice_Ttaku.ogg_
+|           G_Voice_Yatta.ogg_
+|           Ice1.ogg_
+|           Ice2.ogg_
+|           Ice3.ogg_
+|           Item1.ogg_
+|           Item2.ogg_
+|           Item3.ogg_
+|           Key.ogg_
+|           Knock.ogg_
+|           K_se_A1.ogg_
+|           K_se_A2.ogg_
+|           K_se_A3.ogg_
+|           K_se_B1.ogg_
+|           K_se_E0.ogg_
+|           K_se_E1.ogg_
+|           K_se_E2.ogg_
+|           K_se_F0.ogg_
+|           K_voice_C1.ogg_
+|           K_voice_C2.ogg_
+|           K_voice_D1.ogg_
+|           K_voice_D2.ogg_
+|           K_voice_D2.xmp
+|           K_voice_E1.ogg_
+|           Move1.ogg_
+|           Move10.ogg_
+|           Move2.ogg_
+|           Move3.ogg_
+|           Move4.ogg_
+|           Move5.ogg_
+|           Move6.ogg_
+|           Move7.ogg_
+|           Move8.ogg_
+|           Move9.ogg_
+|           Open1.ogg_
+|           Open2.ogg_
+|           Open3.ogg_
+|           Open4.ogg_
+|           Open5.ogg_
+|           Open6.ogg_
+|           Open7.ogg_
+|           Open8.ogg_
+|           Open9.ogg_
+|           Shop1.ogg_
+|           Shop2.ogg_
+|           Switch1.ogg_
+|           Switch2.ogg_
+|           Switch3.ogg_
+|           Up1.ogg_
+|           
++---css
+|       game.css
+|       
++---data
+|       Actors.json
+|       Animations.json
+|       Armors.json
+|       Classes.json
+|       CommonEvents.json
+|       Enemies.json
+|       Items.json
+|       Map009.json
+|       MapInfos.json
+|       Skills.json
+|       States.json
+|       System.json
+|       Tilesets.json
+|       Troops.json
+|       Weapons.json
+|       
++---effects
+|   |   Absorb.efkefc
+|   |   ArrowSpecial.efkefc
+|   |   BallsOfLight.efkefc
+|   |   Bind.efkefc
+|   |   Blind.efkefc
+|   |   Bodyslam.efkefc
+|   |   Breath.efkefc
+|   |   ClawEffect.efkefc
+|   |   ClawFire.efkefc
+|   |   ClawIce.efkefc
+|   |   ClawPhysical.efkefc
+|   |   ClawSpecial.efkefc
+|   |   ClawThunder.efkefc
+|   |   Confusion.efkefc
+|   |   CureAll1.efkefc
+|   |   CureAll2.efkefc
+|   |   CureOne1.efkefc
+|   |   CureOne2.efkefc
+|   |   DarknessAll1.efkefc
+|   |   DarknessAll2.efkefc
+|   |   DarknessAll3.efkefc
+|   |   DarknessOne1.efkefc
+|   |   DarknessOne2.efkefc
+|   |   Death.efkefc
+|   |   EarthAll1.efkefc
+|   |   EarthAll2.efkefc
+|   |   EarthAll3.efkefc
+|   |   EarthOne1.efkefc
+|   |   EarthOne2.efkefc
+|   |   FireAll1.efkefc
+|   |   FireAll2.efkefc
+|   |   FireAll3.efkefc
+|   |   FireOne1.efkefc
+|   |   FireOne2.efkefc
+|   |   Flash.efkefc
+|   |   Fog.efkefc
+|   |   GeneralSpecial1.efkefc
+|   |   GeneralSpecial2.efkefc
+|   |   HealAll1.efkefc
+|   |   HealAll2.efkefc
+|   |   HealOne1.efkefc
+|   |   HealOne2.efkefc
+|   |   HitEffect.efkefc
+|   |   HitFire.efkefc
+|   |   HitIce.efkefc
+|   |   HitPhysical.efkefc
+|   |   HitSpecial1.efkefc
+|   |   HitSpecial2.efkefc
+|   |   HitThunder.efkefc
+|   |   IceAll1.efkefc
+|   |   IceAll2.efkefc
+|   |   IceAll3.efkefc
+|   |   IceOne1.efkefc
+|   |   IceOne2.efkefc
+|   |   LaserAll.efkefc
+|   |   LaserOne.efkefc
+|   |   LightAll1.efkefc
+|   |   LightAll2.efkefc
+|   |   LightAll3.efkefc
+|   |   LightOne1.efkefc
+|   |   LightOne2.efkefc
+|   |   LightPillar1.efkefc
+|   |   LightPillar2.efkefc
+|   |   NeutralAll1.efkefc
+|   |   NeutralAll2.efkefc
+|   |   NeutralAll3.efkefc
+|   |   NeutralOne1.efkefc
+|   |   NeutralOne2.efkefc
+|   |   Paralyze.efkefc
+|   |   PierceEffect.efkefc
+|   |   PierceFire.efkefc
+|   |   PierceIce.efkefc
+|   |   PiercePhysical.efkefc
+|   |   PierceSpecial1.efkefc
+|   |   PierceSpecial2.efkefc
+|   |   PierceThunder.efkefc
+|   |   Poison.efkefc
+|   |   Pollen.efkefc
+|   |   Powerdown1.efkefc
+|   |   Powerdown2.efkefc
+|   |   Powerdown3.efkefc
+|   |   Powerup1.efkefc
+|   |   Powerup2.efkefc
+|   |   Powerup3.efkefc
+|   |   Radiation.efkefc
+|   |   Revive1.efkefc
+|   |   Revive2.efkefc
+|   |   ShootAll.efkefc
+|   |   ShootBarrage.efkefc
+|   |   ShootNormal.efkefc
+|   |   ShootSpecial.efkefc
+|   |   Shout.efkefc
+|   |   Silence.efkefc
+|   |   SlashEffect.efkefc
+|   |   SlashFire.efkefc
+|   |   SlashIce.efkefc
+|   |   SlashPhysical.efkefc
+|   |   SlashSpecial1.efkefc
+|   |   SlashSpecial2.efkefc
+|   |   SlashSpecial3.efkefc
+|   |   SlashThunder.efkefc
+|   |   Sleep.efkefc
+|   |   Song.efkefc
+|   |   SonicWave.efkefc
+|   |   Sweep.efkefc
+|   |   ThunderAll1.efkefc
+|   |   ThunderAll2.efkefc
+|   |   ThunderAll3.efkefc
+|   |   ThunderOne1.efkefc
+|   |   ThunderOne2.efkefc
+|   |   WaterAll1.efkefc
+|   |   WaterAll2.efkefc
+|   |   WaterAll3.efkefc
+|   |   WaterOne1.efkefc
+|   |   WaterOne2.efkefc
+|   |   WindAll1.efkefc
+|   |   WindAll2.efkefc
+|   |   WindAll3.efkefc
+|   |   WindOne1.efkefc
+|   |   WindOne2.efkefc
+|   |   
+|   +---Model
+|   |       Ball.efkmodel
+|   |       NightHand1.efkmodel
+|   |       NightHand2.efkmodel
+|   |       NightHand3.efkmodel
+|   |       NightHand4.efkmodel
+|   |       Shield.efkmodel
+|   |       Skull.efkmodel
+|   |       
+|   \---Texture
+|           Arrow.png
+|           Circle.png
+|           Feather.png
+|           Flower.png
+|           Fog.png
+|           HexCircle.png
+|           IceRock.png
+|           LightRing.png
+|           Line1.png
+|           Line2.png
+|           Monster1.png
+|           Monster2.png
+|           Monster3.png
+|           Note1.png
+|           Note2.png
+|           Note3.png
+|           Note4.png
+|           Particle100.png
+|           ParticleAlpha.png
+|           Period.png
+|           Rhombus1.png
+|           Rhombus2.png
+|           Ring.png
+|           Rock.png
+|           Shield.png
+|           ShockWave1.png
+|           ShockWave2.png
+|           ShockWaveRing1.png
+|           ShockWaveRing2.png
+|           Slash1.png
+|           Slash2.png
+|           Snow.png
+|           Special3_1.png
+|           Special3_2.png
+|           Special3_3.png
+|           Special3_4.png
+|           Sphere.png
+|           Spin.png
+|           Star.png
+|           Star2.png
+|           Thorns.png
+|           ThunderC.png
+|           ThunderH.png
+|           ThunderV.png
+|           Wind.png
+|           WindMark.png
+|           WingL.png
+|           WingR.png
+|           
++---fonts
+|       bokutachi.woff
+|       mplus-1m-regular.woff
+|       mplus-2p-bold-sub.woff
+|       
++---icon
+|       icon.png
+|       
++---img
+|   +---characters
+|   |       Actor1.png_
+|   |       Vehicle.png_
+|   |       
+|   +---faces
+|   |       memory1.png_
+|   |       memory2.png_
+|   |       
+|   +---pictures
+|   |       Actor1_1.png_
+|   |       Ani01_UP_A.png_
+|   |       Ani01_UP_B.png_
+|   |       Ani12_cum.png_
+|   |       Ani12_cum2.png_
+|   |       Ani12_cum3.png_
+|   |       ani_mainB.png_
+|   |       ani_mainB_sentaku.png_
+|   |       ani_mainB_touch.png_
+|   |       BG_base_asa.png_
+|   |       BG_base_asa_bokeh.png_
+|   |       BG_base_yoru_bokeh.png_
+|   |       BG_base_yuu_bokeh.png_
+|   |       BG_book_asa.png_
+|   |       BG_collection.png_
+|   |       BG_filter_yoru.png_
+|   |       BG_filter_yuu.png_
+|   |       BG_itazura.png_
+|   |       BG_kaiwa_asa.png_
+|   |       BG_kaiwa_yuu.png_
+|   |       BG_main.png_
+|   |       BG_shopping.png_
+|   |       BG_shopping2.png_
+|   |       BG_status.png_
+|   |       BG_stil.png_
+|   |       black.png_
+|   |       bottun_back.png_
+|   |       bottun_back_item.png_
+|   |       bottun_window_pageDWN.png_
+|   |       bottun_window_pageUP.png_
+|   |       brown.png_
+|   |       button_backroom.png_
+|   |       button_camera.png_
+|   |       button_changepose.png_
+|   |       button_clothback.png_
+|   |       button_collection.png_
+|   |       button_cum.png_
+|   |       button_help.png_
+|   |       button_item.png_
+|   |       button_ReStart.png_
+|   |       button_sinnyu.png_
+|   |       button_sinnyu2.png_
+|   |       button_skip.png_
+|   |       button_sleep.png_
+|   |       button_speeddown.png_
+|   |       button_speeddown_mukou.png_
+|   |       button_speedup.png_
+|   |       button_speedup_mukou.png_
+|   |       button_status.png_
+|   |       button_stil.png_
+|   |       button_stop.png_
+|   |       closet_window.png_
+|   |       collection_describe01.png_
+|   |       collection_describe02.png_
+|   |       collection_describe03.png_
+|   |       collection_describe04.png_
+|   |       collection_describe05.png_
+|   |       collection_describe06.png_
+|   |       collection_describe07.png_
+|   |       collection_describe08.png_
+|   |       collection_describe09.png_
+|   |       collection_describe10.png_
+|   |       collection_describe11.png_
+|   |       collection_describe12.png_
+|   |       collection_describe13.png_
+|   |       collection_describe14.png_
+|   |       collection_describe15.png_
+|   |       collection_describe16.png_
+|   |       collection_describe17.png_
+|   |       collection_describe18.png_
+|   |       collection_icon01.png_
+|   |       collection_icon2.png_
+|   |       collection_icon3.png_
+|   |       collection_icon_B01.png_
+|   |       collection_icon_B02.png_
+|   |       collection_icon_B03.png_
+|   |       collection_icon_B04.png_
+|   |       collection_icon_B05.png_
+|   |       collection_icon_B06.png_
+|   |       collection_icon_B07.png_
+|   |       collection_icon_B08.png_
+|   |       collection_icon_B09.png_
+|   |       collection_icon_B10.png_
+|   |       collection_icon_B11.png_
+|   |       collection_icon_B12.png_
+|   |       collection_icon_B13.png_
+|   |       collection_icon_B14.png_
+|   |       collection_icon_B15.png_
+|   |       collection_icon_B16.png_
+|   |       collection_icon_B17.png_
+|   |       collection_icon_sentaku.png_
+|   |       collection_massage.png_
+|   |       ending_pic0001.png_
+|   |       ending_pic0002.png_
+|   |       ending_pic0003.png_
+|   |       ending_pic0004.png_
+|   |       ending_pic0005.png_
+|   |       ending_pic0006.png_
+|   |       help_B1.png_
+|   |       help_B2.png_
+|   |       help_B3.png_
+|   |       help_B4.png_
+|   |       help_button_Exit.png_
+|   |       help_B_banner.png_
+|   |       help_K1.png_
+|   |       help_K2.png_
+|   |       help_K3.png_
+|   |       help_K4.png_
+|   |       help_K5.png_
+|   |       help_K_banner.png_
+|   |       H_gauge_kakuseido.png_
+|   |       H_gauge_kando.png_
+|   |       H_gauge_syasei.png_
+|   |       itazura_sentaku_ass.png_
+|   |       itazura_sentaku_BK_ass.png_
+|   |       itazura_sentaku_BK_btms.png_
+|   |       itazura_sentaku_BK_pants.png_
+|   |       itazura_sentaku_BK_penis.png_
+|   |       itazura_sentaku_BK_tops.png_
+|   |       itazura_sentaku_btms.png_
+|   |       itazura_sentaku_head.png_
+|   |       itazura_sentaku_nippleL.png_
+|   |       itazura_sentaku_nippleR.png_
+|   |       itazura_sentaku_pants.png_
+|   |       itazura_sentaku_penis.png_
+|   |       itazura_sentaku_tops.png_
+|   |       item_pic0.png_
+|   |       item_pic1.png_
+|   |       item_pic2.png_
+|   |       item_pic3.png_
+|   |       item_pic4.png_
+|   |       item_pic5.png_
+|   |       item_pic6.png_
+|   |       item_pic7.png_
+|   |       item_pic8.png_
+|   |       item_picB0.png_
+|   |       item_picB1.png_
+|   |       item_picB2.png_
+|   |       item_picB3.png_
+|   |       item_picB4.png_
+|   |       item_picB5.png_
+|   |       item_picB6.png_
+|   |       item_picB7.png_
+|   |       item_picB8.png_
+|   |       item_picC0.png_
+|   |       item_picC1.png_
+|   |       item_picC2.png_
+|   |       item_picC3.png_
+|   |       item_picC4.png_
+|   |       item_picC5.png_
+|   |       item_picC6.png_
+|   |       item_picC7.png_
+|   |       item_sentaku.png_
+|   |       item_sentaku_B.png_
+|   |       item_window.png_
+|   |       logo_namao.png_
+|   |       logo_rpgmz.png_
+|   |       main_PC_sentaku.png_
+|   |       main_PC_touch.png_
+|   |       main_PC_work.png_
+|   |       moan0.png_
+|   |       moan1.png_
+|   |       moan10.png_
+|   |       moan2.png_
+|   |       moan3.png_
+|   |       moan4.png_
+|   |       moan5.png_
+|   |       moan6.png_
+|   |       moan7.png_
+|   |       moan8.png_
+|   |       moan9.png_
+|   |       notice.png_
+|   |       notice_small.png_
+|   |       onani_img01.png_
+|   |       onani_img02.png_
+|   |       onani_img03.png_
+|   |       onani_img04.png_
+|   |       onani_img05.png_
+|   |       onani_img06.png_
+|   |       onani_img07.png_
+|   |       onani_img08.png_
+|   |       onani_screen_light.png_
+|   |       onani_screen_mask.png_
+|   |       onani_text_mat.png_
+|   |       photo_picture_frame.png_
+|   |       shop_icon01.png_
+|   |       shop_icon02.png_
+|   |       shop_icon03.png_
+|   |       shop_icon04.png_
+|   |       shop_icon05.png_
+|   |       shop_icon06.png_
+|   |       shop_icon07.png_
+|   |       shop_list01.png_
+|   |       shop_list02.png_
+|   |       shop_list03.png_
+|   |       shop_list04.png_
+|   |       shop_list05.png_
+|   |       shop_list06.png_
+|   |       shop_list07.png_
+|   |       shop_list08.png_
+|   |       shop_list09.png_
+|   |       shop_list10.png_
+|   |       shop_list11.png_
+|   |       shop_list12.png_
+|   |       shop_list13.png_
+|   |       shop_list14.png_
+|   |       shop_list15.png_
+|   |       shop_list_B01.png_
+|   |       shop_list_B02.png_
+|   |       shop_list_B03.png_
+|   |       shop_list_B04.png_
+|   |       shop_list_B05.png_
+|   |       shop_list_B06.png_
+|   |       shop_list_B07.png_
+|   |       shop_list_B08.png_
+|   |       shop_list_B09.png_
+|   |       shop_list_B10.png_
+|   |       shop_list_B11.png_
+|   |       shop_list_B12.png_
+|   |       shop_list_B13.png_
+|   |       shop_list_B14.png_
+|   |       shop_list_B15.png_
+|   |       shop_list_B_sentaku.png_
+|   |       shop_list_sentaku.png_
+|   |       shop_pic01.png_
+|   |       shop_pic02.png_
+|   |       shop_pic03.png_
+|   |       shop_pic04.png_
+|   |       shop_pic05.png_
+|   |       shop_pic06.png_
+|   |       shop_pic07.png_
+|   |       shop_pic08.png_
+|   |       shop_pic09.png_
+|   |       shop_pic_B01.png_
+|   |       shop_pic_B02.png_
+|   |       shop_pic_B03.png_
+|   |       shop_pic_B04.png_
+|   |       shop_pic_B05.png_
+|   |       shop_pic_B06.png_
+|   |       shop_pic_B07.png_
+|   |       status_icon01.png_
+|   |       status_icon_sentaku.png_
+|   |       status_lv01.png_
+|   |       status_lv02.png_
+|   |       status_lv03.png_
+|   |       status_lv04.png_
+|   |       status_lv05.png_
+|   |       status_massage01.png_
+|   |       status_massage02.png_
+|   |       status_massage03.png_
+|   |       status_massage04.png_
+|   |       status_massage05.png_
+|   |       status_massage06.png_
+|   |       status_massage07.png_
+|   |       status_massage08.png_
+|   |       status_massage09.png_
+|   |       status_massage10.png_
+|   |       status_massage11.png_
+|   |       still_sentaku.png_
+|   |       still_window.png_
+|   |       stil_icon.png_
+|   |       stil_icon10.png_
+|   |       stil_icon11.png_
+|   |       stil_icon12.png_
+|   |       stil_icon13.png_
+|   |       stil_icon2.png_
+|   |       stil_icon3.png_
+|   |       stil_icon4.png_
+|   |       stil_icon5.png_
+|   |       stil_icon6.png_
+|   |       stil_icon7.png_
+|   |       stil_icon8.png_
+|   |       stil_icon9.png_
+|   |       story_botton_back.png_
+|   |       story_botton_skip.png_
+|   |       story_botton_SpeedDWN.png_
+|   |       story_botton_SpeedUP.png_
+|   |       story_botton_TextHide.png_
+|   |       story_botton_TextShow.png_
+|   |       story_mask.png_
+|   |       story_mat.png_
+|   |       system01.png_
+|   |       system02.png_
+|   |       system03.png_
+|   |       timezone_icon01.png_
+|   |       timezone_icon02.png_
+|   |       timezone_icon03.png_
+|   |       title.png_
+|   |       white.png_
+|   |       white_gra.png_
+|   |       
+|   +---spines
+|   |       F_modelA.atlas
+|   |       F_modelA.json
+|   |       F_modelA.png
+|   |       G_modelA.atlas
+|   |       G_modelA.json
+|   |       G_modelA.png
+|   |       K_fxA.atlas
+|   |       K_fxA.json
+|   |       K_fxA.png
+|   |       K_modelA.atlas
+|   |       K_modelA.json
+|   |       K_modelA.png
+|   |       K_modelA2.png
+|   |       K_modelA3.png
+|   |       K_modelB.atlas
+|   |       K_modelB.json
+|   |       K_modelB.png
+|   |       K_modelB2.png
+|   |       K_modelB3.png
+|   |       
+|   +---system
+|   |       Balloon.png_
+|   |       ButtonSet.png_
+|   |       ButtonSet_temp.png_
+|   |       GameOver.png_
+|   |       IconSet.png_
+|   |       Shadow1.png_
+|   |       Shadow2.png_
+|   |       splash.png_
+|   |       States.png_
+|   |       Weapons1.png_
+|   |       Weapons2.png_
+|   |       Weapons3.png_
+|   |       Window.png_
+|   |       
+|   +---tilesets
+|   |       none.png_
+|   |       
+|   \---titles1
+|           title.png_
+|           
++---js
+|   |   main.js
+|   |   plugins.js
+|   |   rmmz_core.js
+|   |   rmmz_managers.js
+|   |   rmmz_objects.js
+|   |   rmmz_scenes.js
+|   |   rmmz_sprites.js
+|   |   rmmz_windows.js
+|   |   
+|   +---libs
+|   |       effekseer.min.js
+|   |       effekseer.wasm
+|   |       localforage.min.js
+|   |       pako.min.js
+|   |       pixi-spine.js
+|   |       pixi.js
+|   |       vorbisdecoder.js
+|   |       
+|   \---plugins
+|           AltMenuScreen.js
+|           AltSaveScreen.js
+|           AlwaysGameActive.js
+|           ApngPicture.js
+|           BugfixWindowWithBlend.js
+|           ButtonPicture.js
+|           ChangeWindowTouchPolicy.js
+|           CharacterGraphicExtend.js
+|           CommonInterceptor.js
+|           cubism4ForMZ.js
+|           CustomizeConfigDefault.js
+|           CustomizeConfigItem.js
+|           DarkPlasma_ChoiceListCancelSE.js
+|           DarkPlasma_ComposePicture.js
+|           DarkPlasma_MaskPicture.js
+|           DisableWindowCloseAnimation.js
+|           DragonSmoothCamera.js
+|           DTextPicture.js
+|           Eiten_NoWindowAnim.js
+|           EnemyOverlay.js
+|           ExtraGauge.js
+|           FastForwardCustomize.js
+|           FixImageLoading.js
+|           FloatVariables.js
+|           FSDK_AdvSaveHandler.js
+|           FSDK_CookToolAddOn.js
+|           HIME_CustomPageConditions.js
+|           HR_PictureMask.js
+|           ImageCacheLimit.js
+|           Keke_FreeCamera.js
+|           live2dcubismcore.min.js
+|           Live2DInterfaceMV.js
+|           Live2DInterfaceMZ.js
+|           Live2DInterfaceMZ_2.js
+|           LL_CustomFade.js
+|           LL_OutlineColorAuto.js
+|           LL_ShutdownAlert.js
+|           LL_SprashScreen.js
+|           LL_StandingPicture.js
+|           MakeScreenCapture.js
+|           Mano_ChoiceCustom.js
+|           MaxItem.js
+|           MAX_CACHE_SIZE.js
+|           MessageAlignCenter.js
+|           Mihil_EventPageCondition.js
+|           Mihil_RandomEvent.js
+|           MKR_PlayerMoveForbid.js
+|           MNKR_TimerEX.js
+|           MOG_SceneItem.js
+|           MOG_SceneMenu.js
+|           MousePointerExtend.js
+|           MoviePicture.js
+|           MPI_TilingPicture.js
+|           MPP_ChoiceEX.js
+|           NobleMushroom.js
+|           NovelGameUI.js
+|           NRP_EvalPluginCommand.js
+|           NRP_MessageWindow.js
+|           NRP_PicturePriority.js
+|           NUUN_Base.js
+|           NUUN_ConditionsBase.js
+|           NUUN_ItemBook.js
+|           NUUN_MaxItem.js
+|           NUUN_SaveScreen.js
+|           OptionEx.js
+|           PANDA_ImagePreLoad.js
+|           Parallax_Animation.js
+|           ParallelBgs.js
+|           PictureAnimation.js
+|           PictureCallCommon.js
+|           PictureColorChange.js
+|           PictureCommand.js
+|           PictureControlExtend.js
+|           PictureGrouping.js
+|           PictureLive2D.js
+|           PicturePriorityCustomize.js
+|           PictureSpine.js
+|           PictureSpriteSheet.js
+|           PictureVariableSetting.js
+|           PictureZIndex.js
+|           Picture_Fade.js
+|           picture_preload.js
+|           PixiApngAndGif.js
+|           PlayCursorMouseHover.js
+|           PluginCommonBase.js
+|           ProbabilityBranch.js
+|           RemoveSaveFile.js
+|           SaveFileDrawFace.js
+|           SaveImageAllMember.js
+|           SaveListConfirm.js
+|           SceneCustomMenu.js
+|           ScreenshotPlugin.js
+|           SwitchOnLoad.js
+|           Synrec_Preloader.js
+|           TextPicture.js
+|           TorigoyaMZ_EasyStaffRoll.js
+|           VariableLimitation.js
+|           Wataridori_AddFileSystem.js
+|           WindowBlinkStop.js
+|           
+\---movies
+        Ani01_work1.webm
+        Ani01_work2.webm
+        Ani01_work3.webm
+        Ani2_A.webm
+        Ani2_B.webm
+        Ani2_C1.webm
+        Ani2_C2.webm
+        Ani2_D1.webm
+        Ani2_D2.webm
+        Ani2_E1.webm
+        Ani2_E2.webm
+        Ani2_E3.webm
+        Ani2_E4.webm
+        Ani2_F1.webm
+        Ani2_F2.webm
+        Ani7_A.webm
+        Ani7_B.webm
+        Ani7_C.webm
+        Ani_G1.webm
+        Ani_G2.webm
+        Ani_G3.webm
+        mob_G.webm
+        mob_K.webm
+        mob_tansaku.webm
+        

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="icon" href="icon/icon.png" type="image/png">
+    <link rel="apple-touch-icon" href="icon/icon.png">
+    <link rel="stylesheet" type="text/css" href="css/game.css">
+    <title>游戏加载中</title>
+    <style>
+        html,body{height:100%;margin:0;background:#000;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;}
+        #gameRoot{min-height:100vh;display:flex;align-items:center;justify-content:center;color:#cfe3ff}
+        .splash{position:fixed;inset:0;z-index:9999;display:flex;flex-direction:column;align-items:center;justify-content:center;overflow:hidden;text-align:center;color:#e9f3ff;background:radial-gradient(1200px 800px at 50% 20%,#162233 0%,#0b0f17 60%,#07090e 100%)}
+        .splash::before{content:"";position:absolute;inset:-40% -40% auto;height:40%;background:linear-gradient(90deg,transparent,rgba(255,255,255,.04),transparent);transform:skewY(-12deg);animation:sweep 3s ease-in-out infinite;}
+        @keyframes sweep{0%{transform:translateX(-40%) skewY(-12deg)}60%{transform:translateX(140%) skewY(-12deg)}100%{transform:translateX(140%) skewY(-12deg)}}
+        .title{font-size:44px;font-weight:900;letter-spacing:.02em;line-height:1.08;text-shadow:0 0 18px rgba(112,219,255,.5),0 0 48px rgba(112,219,255,.25);filter:drop-shadow(0 0 8px rgba(112,219,255,.8)) drop-shadow(0 0 22px rgba(112,219,255,.5));animation:neon 2.4s ease-in-out infinite;}
+        @keyframes neon{0%,100%{filter:drop-shadow(0 0 0 rgba(112,219,255,0)) drop-shadow(0 0 0 rgba(112,219,255,0))}50%{filter:drop-shadow(0 0 8px rgba(112,219,255,.95)) drop-shadow(0 0 26px rgba(112,219,255,.6))}}
+        .subtitle{margin-top:14px;font-size:14px;letter-spacing:.08em;color:#c9d7ffbf}
+        .fade-out{animation:fade .6s ease forwards}
+        @keyframes fade{to{opacity:0;visibility:hidden}}
+    </style>
+</head>
+<body style="background-color:black">
+<div id="gameRoot"></div>
+<div class="splash" id="splash" aria-live="polite" aria-label="加载中">
+    <div class="title">Loading……</div>
+    <div class="subtitle">免费分享，付费请举报。Android版本by.比逗逗 Online版本By.billbilW</div>
+</div>
+<script type="text/javascript" src="js/main.js"></script>
+<script>
+    const SPLASH_MS = 6000;
+    const splash = document.getElementById('splash');
+    setTimeout(()=>{
+        splash.classList.add('fade-out');
+        splash.addEventListener('animationend',()=>splash.remove(),{once:true});
+    },SPLASH_MS);
+</script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+
+F_modelA.png
+size: 1073,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Artmesh1
+  rotate: false
+  xy: 2, 237
+  size: 920, 296
+  orig: 975, 355
+  offset: 25, 0
+  index: -1
+Artmesh2
+  rotate: true
+  xy: 816, 78
+  size: 157, 88
+  orig: 975, 355
+  offset: 419, 54
+  index: -1
+Artmesh3
+  rotate: false
+  xy: 2, 2
+  size: 405, 233
+  orig: 975, 355
+  offset: 416, 0
+  index: -1
+Artmesh4
+  rotate: false
+  xy: 924, 247
+  size: 147, 286
+  orig: 975, 355
+  offset: 427, 42
+  index: -1
+Artmesh5
+  rotate: false
+  xy: 409, 2
+  size: 405, 233
+  orig: 975, 355
+  offset: 416, 0
+  index: -1
