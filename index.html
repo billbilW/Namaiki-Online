@@ -36,6 +36,24 @@
         splash.classList.add('fade-out');
         splash.addEventListener('animationend',()=>splash.remove(),{once:true});
     },SPLASH_MS);
+    //————————New————————
+    // Fixed "NotAllowedError: play() only can be initiated by a user gesture"
+let audioUnlockTimer = setInterval(() => {
+    try {
+        if (typeof AudioManager !== 'undefined') {
+            AudioManager.unlockWebAudio?.();
+            const tmp = new Audio();
+            tmp.play().catch(() => {});
+            clearInterval(audioUnlockTimer);
+        }
+    } catch (e) {}
+}, 50);
+
+// 备用
+document.addEventListener('click', () => {
+    try { AudioManager.unlockWebAudio?.(); } catch(e) {}
+}, { once: true });
+    
 </script>
 </body>
 </html>
